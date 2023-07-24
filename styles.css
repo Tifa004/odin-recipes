@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: left;
+    font-family: 'Sacramento'; 
+    font-size: 60px;
+    background-color: #c1463f;
+    padding: 20px;
+    text-indent: 100px;
+    margin: 0;
+    
+}
+.Odin{
+    color: #f0d8ba;
+}
+.R{
+    color: white;
+}
+.menu a{
+    list-style: none;
+    position: relative;
+    top: -380px;
+    left: 630px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.soup{
+    position: relative;
+    float: left;
+    width: 27.01%;
+    top: -283px;
+    height: 284px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+.creme{
+    float: right;
+    height:284px;
+    width: 27%;
+    position: relative;
+    top: -283px;
+}
+.Most{
+    color: #c1463f;
+}
+p {
+    font-size: 30px;
+    position: relative;
+    right: 280px;
+    line-height:2.3em;
+    text-indent: 20px;
+    top: -40px;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+.Recipes li {
+    display: inline;
+   
+}
